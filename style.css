@@ -1,0 +1,50 @@
+h1 {
+	color: rgb(255, 123, 0);
+	font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	text-align:left;
+}
+p{
+    color: rgb(2, 71, 134);
+	font-family:Arial, Helvetica, sans-serif;
+	text-align:left;
+    
+
+}
+.search{
+    color: red;
+	font-family:Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    border-style:outset;
+    border-color: black;
+	text-align:left;
+
+}
+.form{
+    color: rgb(145, 12, 12);
+	font-family:Arial, Helvetica, sans-serif;
+	text-align:left;
+    font-weight:bolder;
+    
+
+}
+.point{
+    color: rgba(50, 87, 7, 0.719);
+	font-family:Arial, Helvetica, sans-serif;
+	text-align:center;
+    font-weight:bolder;
+    border-style:double;
+    border-color:rgba(50, 87, 7, 0.719) ;
+    
+}
+a:link {
+    color: rgb(3, 77, 36);
+}
+a:visited {
+    color: rgb(0, 94, 20);
+}
+div:hover {
+    color: rgb(0, 0, 0);
+} 
+a:active{
+    color: #0000FF
+}
